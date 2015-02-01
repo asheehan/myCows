@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2552812983">
+    <data-source source="LOCAL" name="Rails myCows: development" uuid="7a056cb9-6cfe-48dd-b925-ca12f0ebf975">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:myCows_development</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails myCows: test" uuid="041440c0-32a7-4566-976a-5d3a2e80fd22">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:myCows_test</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails myCows: production" uuid="b892db04-4d0e-4e48-be39-0e035c1ab217">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:myCows_production</jdbc-url>
+      <user-name>myCows</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddfe7dff3dfe9dfe5dffddff9dff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
